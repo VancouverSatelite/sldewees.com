@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>terminal_portfolio</title>
+
+<link rel="stylesheet" href="https://unpkg.com/terminal.css@0.7.4/dist/terminal.min.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="terminal">
+
+<!-- TOP BAR -->
+<div class="top-bar">
+
+  <!-- THEME TOGGLE -->
+  <label class="theme-switch">
+    <input type="checkbox" id="themeToggle">
+    <span class="slider">
+      <span class="icon sun">1</span>
+      <span class="icon moon">0</span>
+    </span>
+  </label>
+
+  <!-- MODE TOGGLE -->
+  <button id="modeToggle">easy mode</button>
+
+</div>
+
+<!-- TERMINAL MODE -->
+<div id="terminalMode">
+  <div class="container terminal-window">
+    <div id="output"></div>
+
+    <div class="input-line">
+      <span id="prompt"></span>
+      <input type="text" id="input" autofocus />
+    </div>
+  </div>
+</div>
+
+<!-- EASY MODE -->
+<div id="easyMode" style="display:none;">
+  <div class="container">
+
+    <h1>Stephen DeWees</h1>
+    <p>Manufacturing Engineering Technologies Senior<br>Aspiring Hardware Developer<br>Musician</p>
+    
+
+    <h2>About</h2>
+    <p>I like learning, as well as my cat!<br>I'm graduating from TTU (Tennessee Technological University) in May 2026<br>Computer literacy in Macs, Windows, an Linux PCs</p>
+
+          
+                       <h2>Projects</h2>
+                            <ul>
+                              <li><a href="#">This website!!!</a></li>
+                              <li><a href="#">Project Two will be up soon!</a></li>
+                            </ul>
+                       
+    <h2>Contact</h2>
+    <p>Email: sldewees04@gmail.com<br>Phone: +1 (615)-569-8614</p>
+
+  </div>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>
