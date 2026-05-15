@@ -63,8 +63,8 @@ const fs = {
       "projects": {
         type: "dir",
         children: {
-          "github.txt": { type: "file", content: "https://github.com/VancouverSatelite" },
-          "personal-site.txt": { type: "file", content: "https://www.myfreak.org" }
+          "project1.txt": { type: "file", content: "https://github.com/VancouverSatelite" },
+          "project2.txt": { type: "file", content: "https://www.myfreak.org" }
         }
       },
       "contact.txt": { type: "file", content: "EMAIL: sldewees04@gmail.com\nPHONE: +1 (615)-569-8614" }
