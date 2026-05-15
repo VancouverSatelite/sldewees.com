@@ -30,7 +30,7 @@ body.light {
 body {
   background: var(--background-color);
   color: var(--font-color);
-  font-family: monospace;
+  font-family: courier;
   transition: background 0.2s ease, color 0.2s ease;
   min-height: 100vh;
 }
@@ -68,7 +68,7 @@ button {
   color: var(--primary-color);
   padding: 5px 10px;
   cursor: pointer;
-  font-family: monospace;
+  font-family: courier;
   transition: 0.2s ease;
 }
 
@@ -98,7 +98,7 @@ input {
   color: var(--font-color);
   outline: none;
   width: 100%;
-  font-family: monospace;
+  font-family: courier;
 }
 
 /* =================================================
