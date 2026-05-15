@@ -6,10 +6,12 @@
 
 
 
-###### MY LIFE IS A PRISON
+#### <center>Welcome to the github repo for my website!!! </center>
 
-and uhh
-it's my own doing.
+<center> I have now graduated from college, and have time to get my life all ironed out and sorted.
+It's going to be cool once this is up and running fully!
 
-Like the moron I am, I deleted all of my code right after downloading it, and APPARENTLY it downloaded incorrectly. 
-So now I am going to try and freak out an make this website at the speed of light
+Though I may push new changes frequently, as I debug problems, and add content to the website.
+
+So, have a look around, and enjoy this unoptimized and ductaped together webpage. 
+Though it's in better condition than my RESUME... 😭
